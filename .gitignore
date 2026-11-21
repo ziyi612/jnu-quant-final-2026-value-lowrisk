@@ -1,0 +1,10 @@
+/*
+!/.gitignore
+!/requirements.txt
+!/run.ps1
+!/code/
+/code/*
+!/code/research.py
+!/code/figures.py
+!/code/validate_results.py
+!/code/config.json
